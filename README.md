@@ -7,6 +7,7 @@ Current Codes:
 
 #### LookupShapes
 Opens a tkinter application that allows user to input any shape they want and list their properties.
+
 Considerations:
 * The output is copy-and-pastable; Output is tab seperated
 * Additional shape properties can be added as need be by altering the dictionary for retrieval
