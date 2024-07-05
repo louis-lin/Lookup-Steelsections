@@ -1,10 +1,3 @@
-# Structural-Engineering
-Collection of structural engineering related python codes.
-
-Current Codes:
-* Lookup shapes
----
-
 #### LookupShapes
 Opens a tkinter application that allows user to input any shape they want and list their properties.
 
